@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anis Jallali  
 
-<img src="image.jpg" alt="Anis Jallali" width="180" align="left" style="margin-right: 20px; border-radius: 10px;" />
+<img src="image.jpg" alt="Anis Jallali" width="1500" align="left" style="margin-right: 70px; border-radius: 50px;" />
 
 🎓 **B.Eng. Technische Informatik – Embedded Systems**  
 📍 Berlin, Germany  
