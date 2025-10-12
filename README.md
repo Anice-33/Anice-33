@@ -6,3 +6,13 @@
 
 📍 Berlin, Germany
 
+🧠 About Me
+
+🎯 Focus: Embedded Systems · Firmware Development · Control & Automation · FPGA Design
+
+⚙️ Technologies: STM32 · ARM Cortex-M · RTOS · VHDL · Embedded Linux · MATLAB/Simulink
+
+🌱 Currently learning: OpenAMP · FreeRTOS · Edge AI for IoT
+
+🤝 Open to: Working-student roles, internships & collaborative embedded projects
+
