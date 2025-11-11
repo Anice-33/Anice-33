@@ -19,27 +19,7 @@
 **Languages:** C/C++, VHDL, Assembly, Python, SQL  
 **Hardware:** STM32, FPGA (Quartus / ModelSim), Arduino, Embedded Linux  
 **Tools:** MATLAB/Simulink, Git, LaTeX, UML, Excel, Vim  
-
----
-
-### 📚 Education  
-**B.Eng. Technische Informatik – Embedded Systems**  
-_Berliner Hochschule für Technik (BHT), Berlin_  
-Focus on Embedded Systems, Automation, Microcontrollers, and Hardware-Near Programming  
-
----
-
-### 💼 Experience  
-**Technical & IT Support** – ucm.agency GmbH / Messe Berlin  
-> Supported technical operations for large-scale digital events and collaborated in cross-functional teams for system troubleshooting.  
-
----
-
-### 🌱 Currently Exploring  
-- Signal and System Modeling  
-- FPGA-based Communication Interfaces  
-- Secure Embedded Networking and Real-Time Control  
-
+ 
 ---
 
 ### 📫 Let’s Connect  
@@ -49,6 +29,6 @@ Focus on Embedded Systems, Automation, Microcontrollers, and Hardware-Near Progr
 
 ---
 
-> “Engineering is the art of turning mathematics into something that moves, measures, and communicates.”  
+**Precision, Reliability, and Performance in Every Millisecond**
 
 
