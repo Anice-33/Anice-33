@@ -22,6 +22,19 @@
  
 ---
 
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anice-33&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Anis's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anice-33&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anice-33&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
 ### 📫 Let’s Connect  
 📧 [s90499@bht-berlin.de](mailto:s90499@bht-berlin.de)  
 💼 [LinkedIn](https://linkedin.com/in/anis-jallali-7b831620b)  
